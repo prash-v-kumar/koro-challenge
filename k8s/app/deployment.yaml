@@ -15,8 +15,7 @@ spec:
     spec:
       containers:
         - name: php-app
-          image: php-app:local
-          imagePullPolicy: Never
+          image: ghcr.io/korohandelsgmbh/coding-test-2025:latest
           ports:
             - containerPort: 80
 
