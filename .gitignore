@@ -1,0 +1,12 @@
+# Kubernetes / local clutter
+*.log
+
+# Mac / Linux
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# Kubernetes temp files
+*.swp
